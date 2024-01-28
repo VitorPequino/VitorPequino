@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @VitorPequino
-- 👀 I’m interested in JavaScript, Marketing, Python, React, Css & Html.
-- 🌱 I’m currently learning Django
-- 📫 How to reach me peqiuno@gmail.com
