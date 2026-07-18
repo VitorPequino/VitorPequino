@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @VitorPequino
 - 👀 I’m interested in JavaScript, Python, React, Css & Html.
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning fundamentals of CS
 - 📫 How to reach me peqiuno@gmail.com
