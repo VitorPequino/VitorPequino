@@ -10,10 +10,10 @@ I'm an aspiring software developer from Brazil, currently learning Python and ex
 
 📈 Always learning and improving my skills.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 
 Languages: Python, HTML, CSS
 
-🎯 My Goal
+🎯 My Goal:
 
 To become a skilled software developer and build technology that solves real problems.
